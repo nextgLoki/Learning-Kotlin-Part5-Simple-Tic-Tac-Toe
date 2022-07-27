@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/394081/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 01 Jan 1970 00:00:00 UTC
+update_date: Sat, 16 Apr 2022 11:36:43 UTC
 stages:
 - id: 654
   step: 10475
@@ -56,36 +56,34 @@ topics:
     theory_id: 6865
   - title: The classification of basic types
     theory_id: 4455
-  - title: Arithmetic operations
-    theory_id: 4472
-  - title: Boolean and logical operations
-    theory_id: 4515
-  - title: Increment and decrement
-    theory_id: 10776
   - title: Type conversion
     theory_id: 4672
-  - title: Reading data with a readLine
+  - title: Reading data with a readln
     theory_id: 11224
-  - title: Objects
-    theory_id: 11233
+  - title: Boolean and logical operations
+    theory_id: 4515
+  - title: Arithmetic operations
+    theory_id: 4472
   - title: Type of the numeric expression
     theory_id: 9506
+  - title: Increment and decrement
+    theory_id: 10776
   - title: Integers in action
     theory_id: 4488
   - title: Relational operators
     theory_id: 4525
-  - title: Equality
-    theory_id: 11236
   - title: If expression
     theory_id: 4625
   - title: Repeating blocks
     theory_id: 4643
+  - title: Objects
+    theory_id: 11233
+  - title: Equality
+    theory_id: 11236
   - title: Unicode
     theory_id: 7899
   - title: Characters
     theory_id: 4680
-  - title: Working with strings
-    theory_id: 12561
   - title: Ranges
     theory_id: 4633
   - title: For loop and ranges
@@ -96,6 +94,8 @@ topics:
     theory_id: 14902
   - title: For loop and lists
     theory_id: 15022
+  - title: Working with strings
+    theory_id: 12561
   - title: Multi-dimensional list
     theory_id: 15127
   3:
